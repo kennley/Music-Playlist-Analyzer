@@ -1,0 +1,21 @@
+D:/CurrentWork/villain13 C# Works/MusicAnalyzer/MusicAnalyzer/bin/Debug/MusicAnalyzer.exe.config
+D:/CurrentWork/villain13 C# Works/MusicAnalyzer/MusicAnalyzer/bin/Debug/MusicAnalyzer.exe
+D:/CurrentWork/villain13 C# Works/MusicAnalyzer/MusicAnalyzer/bin/Debug/MusicAnalyzer.pdb
+D:/CurrentWork/villain13 C# Works/MusicAnalyzer/MusicAnalyzer/obj/Debug/MusicAnalyzer.csprojAssemblyReference.cache
+D:/CurrentWork/villain13 C# Works/MusicAnalyzer/MusicAnalyzer/obj/Debug/MusicAnalyzer.csproj.CoreCompileInputs.cache
+D:/CurrentWork/villain13 C# Works/MusicAnalyzer/MusicAnalyzer/obj/Debug/MusicAnalyzer.exe
+D:/CurrentWork/villain13 C# Works/MusicAnalyzer/MusicAnalyzer/obj/Debug/MusicAnalyzer.pdb
+/Users/Kennley/Downloads/MusicAnalyzer/MusicAnalyzer/bin/Debug/MusicAnalyzer.exe.config
+/Users/Kennley/Downloads/MusicAnalyzer/MusicAnalyzer/bin/Debug/MusicAnalyzer.exe
+/Users/Kennley/Downloads/MusicAnalyzer/MusicAnalyzer/bin/Debug/MusicAnalyzer.pdb
+/Users/Kennley/Downloads/MusicAnalyzer/MusicAnalyzer/obj/Debug/MusicAnalyzer.csprojAssemblyReference.cache
+/Users/Kennley/Downloads/MusicAnalyzer/MusicAnalyzer/obj/Debug/MusicAnalyzer.csproj.CoreCompileInputs.cache
+/Users/Kennley/Downloads/MusicAnalyzer/MusicAnalyzer/obj/Debug/MusicAnalyzer.exe
+/Users/Kennley/Downloads/MusicAnalyzer/MusicAnalyzer/obj/Debug/MusicAnalyzer.pdb
+/Users/Kennley/Desktop/MusicAnalyzer/bin/Debug/MusicAnalyzer.exe.config
+/Users/Kennley/Desktop/MusicAnalyzer/bin/Debug/MusicAnalyzer.exe
+/Users/Kennley/Desktop/MusicAnalyzer/bin/Debug/MusicAnalyzer.pdb
+/Users/Kennley/Desktop/MusicAnalyzer/obj/Debug/MusicAnalyzer.csprojAssemblyReference.cache
+/Users/Kennley/Desktop/MusicAnalyzer/obj/Debug/MusicAnalyzer.csproj.CoreCompileInputs.cache
+/Users/Kennley/Desktop/MusicAnalyzer/obj/Debug/MusicAnalyzer.exe
+/Users/Kennley/Desktop/MusicAnalyzer/obj/Debug/MusicAnalyzer.pdb
